@@ -1,5 +1,5 @@
 # Project Title
 
-One Paragraph of project description goes here
+Ein Abschnitt der Projektbeschreibung geht hier
 
-## Getting Started
+## Fertig machen
