@@ -1,9 +1,9 @@
 # Project Title
 
-One Paragraph of project description goes here
+Один абзац опису проекту йде тут
 
-## Getting Started
+## Починаємо
 
-*test*
+*тест*
 
 **test**
